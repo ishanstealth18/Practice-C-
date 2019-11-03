@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571617136 source:c:\users\ishan\codeblock_workspace\pointers_c\pointer_passbyref\main.c
+	<stdio.h>
+	<stdlib.h>
+

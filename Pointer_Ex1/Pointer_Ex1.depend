@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570493189 source:c:\users\ishan\codeblock_workspace\pointers_c\pointer_ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+
