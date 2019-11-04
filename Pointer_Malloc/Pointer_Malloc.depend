@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571742455 source:c:\users\ishan\codeblock_workspace\pointers_c\pointer_malloc\main.c
+	<stdio.h>
+	<stdlib.h>
+
