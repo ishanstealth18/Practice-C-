@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572751649 source:c:\users\ishan\codeblock_workspace\practice-c-\structures_c\structures_part1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
